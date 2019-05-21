@@ -1,0 +1,4 @@
+Namespace(epochs=100, gamma=0.5, lr=1e-06, momentum=0.9, optimiser='RMSprop', scheduler=False, step_size=50, w_decay=5e-05)
+epoch,loss,pixel_acc,IoU
+0,0.19694223999977112,0.9039690636969232,0.5995340795533646
+1,0.18899014592170715,

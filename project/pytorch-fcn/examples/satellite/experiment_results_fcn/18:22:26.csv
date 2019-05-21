@@ -1,0 +1,2 @@
+Namespace(batch_size=256, epochs=75, file=True, loss='CE', lr=0.0001, momentum=0.9, optimiser='Adam', scheduler=False, w_decay=5e-05)
+epoch,loss,pixel_acc,IoU,val_loss
